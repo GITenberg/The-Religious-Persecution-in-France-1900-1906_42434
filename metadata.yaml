@@ -1,0 +1,29 @@
+_repo: The-Religious-Persecution-in-France-1900-1906_42434
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42434-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brodhead, J. Napier (Jane Napier)
+    aliases:
+    - Brodhead, Jane Milliken Napier
+    - Brodhead, Jane Napier
+    gutenberg_agent_id: '41686'
+    url: http://www.gutenberg.org/2009/agents/41686
+description: ''
+gutenberg_issued: '2013-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42434'
+  lccn: 08004016
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church and state -- France'
+- !lcc 'BR'
+- !lcsh 'Catholic Church -- France'
+title: The Religious Persecution in France 1900-1906
+url: http://www.gutenberg.org/ebooks/42434
